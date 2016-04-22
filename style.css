@@ -1,0 +1,107 @@
+
+body {
+    font-family: Arial, sans-serif; /* changes the font on the entire page */
+    background-color: #FFD046;
+}
+
+.container {
+    width: 1100px; /* creates a fixed width layout of 960px wide */
+    margin: 20 auto; /* removes margin from top/bottom, automatically  */
+}
+
+/* styles for header and navigation */
+
+.logo {
+    border-radius: 20%;
+}
+
+header, footer {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    padding: 5px;
+}
+
+nav a:active, nav a:hover, nav a:visited, nav a:link {
+    text-decoration: none;
+    color: 000;
+}
+
+nav a:hover {
+    font-weight: bold;
+    background-color: #FFD046;
+}
+
+
+/* styles for main content */
+
+
+/* styles for footer */
+
+footer {
+    font-size: 10px;
+    padding: 5px 0;
+}
+
+.resize {
+    width: 30%;
+    height: 30%;
+    margin: 0 auto;
+    display: block;
+}
+
+header {
+    
+}
+
+
+#curry{
+    background-image: url(Images/Curry..jpg);
+background-size: cover;
+    }
+
+
+
+#KingJames{
+    background-image: url(Images/LerbonJames.jpg);
+}
+
+#Odell{
+    background-image: url(Images/Odellonehandcatch.jpg);
+background-size: cover;
+    }
+
+
+#MLB{
+    background-image: url(Images/MLB.jpg);
+}
+
+
+#ChelseaStone{
+    background-image: url(Images/ChelseaStone.jpg);
+}
+
+main{
+    color: white;
+}
+
+#sister{
+    height: 25%;
+    width: 25%;
+    margin-left: 75%;
+}
+
+#MichealJordan{
+    height: 25%;
+    width: 25%;
+    margin-left: 75%;
+
+    }
+    
